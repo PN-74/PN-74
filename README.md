@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...python lang
 - 🌱 I’m currently learning ...Edyoda
 - 💞️ I’m looking to collaborate on ...job in data science
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/pooja-nawale-236a04248/
 
 <!---
 PN-74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
